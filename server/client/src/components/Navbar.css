@@ -1,0 +1,13 @@
+.container{
+    max-width: 140rem;
+    padding: 3rem 2rem;
+    display: flex;
+    justify-content:  space-between;
+}
+ul{
+    display: flex;
+    gap: 3rem;
+}
+li{
+    list-style: none;
+}
